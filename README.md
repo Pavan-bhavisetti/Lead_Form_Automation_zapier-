@@ -25,6 +25,9 @@ This is a real-world automation used by freelancers, startups, and businesses fo
 
 ## 📌 Workflow Overview
 
+<img width="687" height="820" alt="Zapier_setup" src="https://github.com/user-attachments/assets/cfca967e-ecd2-4100-ab2e-7d7af8b68be6" />
+
+
 User Submits Google Form
 ↓
 Zapier Trigger
